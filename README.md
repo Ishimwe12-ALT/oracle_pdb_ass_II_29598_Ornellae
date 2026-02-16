@@ -145,6 +145,14 @@ was successfully configured and verified using SQL Developer.
 All required database and PDB tasks were completed and validated.
 Task 3 requirements satisfied.
 
+<img width="845" height="446" alt="task23" src="https://github.com/user-attachments/assets/7e24bc6f-1c21-45bb-883d-a15a84d8b61e" />
+<img width="845" height="446" alt="task23" src="https://github.com/user-attachments/assets/7e24bc6f-1c21-45bb-883d-a15a84d8b61e" />
+
+
+<img width="854" height="442" alt="task 33" src="https://github.com/user-attachments/assets/516baa12-0fbb-4239-b446-df3dbf4aae15" />
+<img width="854" height="442" alt="task 33" src="https://github.com/user-attachments/assets/516baa12-0fbb-4239-b446-df3dbf4aae15" />
+
+
 <img width="845" height="445" alt="final answer" src="https://github.com/user-attachments/assets/19bcc345-324b-45df-8304-81175f96995c" />
 
 

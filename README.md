@@ -160,6 +160,6 @@ Task 3 requirements satisfied.
 
 The assignment successfully demonstrated practical knowledge of Oracle Multitenant Architecture using Oracle Database 21c.  
 
-The tasks involving PDB creation, management, deletion, and monitoring through Oracle Enterprise Manager were completed without issues.  
+The tasks involving PDB creation, management, deletion, and monitoring through SQL Developer since oracle entreprise Manager failed ,were completed without issues.  
 
 All assignment requirements were fulfilled.
